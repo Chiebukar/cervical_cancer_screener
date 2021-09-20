@@ -1,7 +1,7 @@
 cervical_cancer_screener
 ==============================
 
-Development of mobile and web applications that utilize  a built deep learning based algorithm to accurately identify a woman's cervix type ased on images.
+Development of mobile and web applications that utilizes  a built deep learning based algorithm to accurately identify a woman's cervix type based on images.
 
 Project Organization
 ------------
