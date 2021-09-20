@@ -1,0 +1,2 @@
+rootProject.name = "Cervical Cancer Screener"
+include ':app'
